@@ -1,0 +1,4 @@
+name: AliasAuditor
+main: com.robomwm.aliasauditor.AliasAuditor
+version: ${project.version}
+author: RoboMWM
